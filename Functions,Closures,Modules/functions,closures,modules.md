@@ -4,7 +4,7 @@
 * They can be created via literals
 * They can be assigned to variables, array entries, and properties of other objects
 * They can be passed as arguments to functions
-* They can be returned as values from functons
+* They can be returned as values from functions
 * They can process properties that can be dynamically created and assigned
 ## function declaration
 ```Javascript
